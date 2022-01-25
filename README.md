@@ -1,0 +1,1 @@
+This is the code from the previous tutorial -- the pipelined Pythagorean Theorem example. New stimulus has been added for $valid.)
